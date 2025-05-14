@@ -11,14 +11,7 @@ To set up the project locally, follow these steps:
    yarn install
    ```
 
-2. **Set Up Environment Variables**:
-   Create a `.env` file in the root of your project and add your API keys and other environment variables:
-
-   ```plaintext
-
-   ```
-
-3. **Run the Development Server**:
+2. **Run the Development Server**:
    Start the application with:
    ```bash
    yarn run dev
